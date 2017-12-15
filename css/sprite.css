@@ -1,0 +1,132 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-s-block17_i1 {
+  background-image: url(sprites/sprite.png);
+  background-position: 0px 0px;
+  width: 128px;
+  height: 123px;
+}
+.icon-s-block17_i2 {
+  background-image: url(sprites/sprite.png);
+  background-position: 0px -123px;
+  width: 128px;
+  height: 123px;
+}
+.icon-s-block17_i3 {
+  background-image: url(sprites/sprite.png);
+  background-position: -128px 0px;
+  width: 128px;
+  height: 123px;
+}
+.icon-s-block_w1 {
+  background-image: url(sprites/sprite.png);
+  background-position: -351px -224px;
+  width: 67px;
+  height: 112px;
+}
+.icon-s-block_w2 {
+  background-image: url(sprites/sprite.png);
+  background-position: -351px -112px;
+  width: 67px;
+  height: 112px;
+}
+.icon-s-block_w3 {
+  background-image: url(sprites/sprite.png);
+  background-position: -351px 0px;
+  width: 67px;
+  height: 112px;
+}
+.icon-s-close_img {
+  background-image: url(sprites/sprite.png);
+  background-position: -284px -204px;
+  width: 26px;
+  height: 26px;
+}
+.icon-s-link_slider {
+  background-image: url(sprites/sprite.png);
+  background-position: -256px -204px;
+  width: 28px;
+  height: 39px;
+}
+.icon-s-no_blc1 {
+  background-image: url(sprites/sprite.png);
+  background-position: 0px -246px;
+  width: 95px;
+  height: 90px;
+}
+.icon-s-no_blc2 {
+  background-image: url(sprites/sprite.png);
+  background-position: -256px -90px;
+  width: 95px;
+  height: 90px;
+}
+.icon-s-no_blc3 {
+  background-image: url(sprites/sprite.png);
+  background-position: -256px 0px;
+  width: 95px;
+  height: 90px;
+}
+.icon-s-no_blc4 {
+  background-image: url(sprites/sprite.png);
+  background-position: -128px -123px;
+  width: 95px;
+  height: 90px;
+}
+.icon-s-process1 {
+  background-image: url(sprites/sprite.png);
+  background-position: -178px -246px;
+  width: 83px;
+  height: 77px;
+}
+.icon-s-process2 {
+  background-image: url(sprites/sprite.png);
+  background-position: -95px -246px;
+  width: 83px;
+  height: 77px;
+}
+.icon-s-process2_1 {
+  background-image: url(sprites/sprite.png);
+  background-position: -83px -336px;
+  width: 69px;
+  height: 75px;
+}
+.icon-s-process2_2 {
+  background-image: url(sprites/sprite.png);
+  background-position: -152px -336px;
+  width: 69px;
+  height: 75px;
+}
+.icon-s-process3 {
+  background-image: url(sprites/sprite.png);
+  background-position: 0px -336px;
+  width: 83px;
+  height: 77px;
+}
+.icon-s-process4 {
+  background-image: url(sprites/sprite.png);
+  background-position: -261px -246px;
+  width: 83px;
+  height: 77px;
+}
+.icon-s-slider {
+  background-image: url(sprites/sprite.png);
+  background-position: -256px -180px;
+  width: 52px;
+  height: 24px;
+}
